@@ -1,6 +1,4 @@
-# awesome-project
-
-Just another awesome magic.
+# passport-makeflow
 
 ## License
 
