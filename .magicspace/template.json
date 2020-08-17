@@ -1,0 +1,8 @@
+{
+  "extends": "@mufan/code-templates/general",
+  "options": {
+    "name": "awesome-project",
+    "license": "MIT",
+    "author": "Magicspace"
+  }
+}
