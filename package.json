@@ -1,8 +1,9 @@
 {
   "name": "passport-makeflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": "Chengdu Mufan Technology Co., Ltd.",
+  "main": "./lib",
   "scripts": {
     "lint": "eslint .",
     "lint-prettier": "prettier --check .",
